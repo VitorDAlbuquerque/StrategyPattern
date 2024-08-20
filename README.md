@@ -1,1 +1,1 @@
-# StrategyPattern
+# javaStrategy
